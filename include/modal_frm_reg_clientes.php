@@ -19,7 +19,7 @@
                                     </div>
                                     <div class="form-group row">
                                         <label class="col-lg-2 col-md-2 col-sm-12" >ruc_dni:</label>
-                                        <input type="text" name="razon_social" class="form-control col-lg-10 col-md-10 col-sm-12" required>
+                                        <input type="number" name="razon_social" class="form-control col-lg-10 col-md-10 col-sm-12" required>
                                     </div>
                                     <div class="form-group row">
                                         <label class="col-lg-2 col-md-2 col-sm-12" >razon_social:</label>
@@ -31,15 +31,15 @@
                                     </div>
                                     <div class="form-group row">
                                         <label class="col-lg-2 col-md-2 col-sm-12" >correo:</label>
-                                        <input type="text" name="direccion" class="form-control col-lg-10 col-md-10 col-sm-12" required>
+                                        <input type="email" name="direccion" class="form-control col-lg-10 col-md-10 col-sm-12" required>
                                     </div>
                                     <div class="form-group row">
                                         <label class="col-lg-2 col-md-2 col-sm-12" >direccion:</label>
-                                        <input type="date" name="direccion_envio" class="form-control col-lg-4 col-md-4 col-sm-12" required>
+                                        <input type="text" name="direccion_envio" class="form-control col-lg-4 col-md-4 col-sm-12" required>
                                     </div>   
                                     <div class="form-group row">
                                         <label class="col-lg-2 col-md-2 col-sm-12" >direccion_envio:</label>
-                                        <input type="date" name="direccion_envio" class="form-control col-lg-4 col-md-4 col-sm-12" required>
+                                        <input type="text" name="direccion_envio" class="form-control col-lg-4 col-md-4 col-sm-12" required>
                                     </div>   
                                     <!--  
                                     <div class="form-group row">
