@@ -30,7 +30,7 @@ include("include/conexion.php");
                     <?php include("include/modal_frm_reg_productos.php"); ?>
 
                     <table id="basic-datatable" class="table dt-responsive nowrap">
-                                    <thead>
+                                    <thead >
                                             <th>Nro</th>
                                             <th>codigo</th>
                                             <th>descripcion</th>
